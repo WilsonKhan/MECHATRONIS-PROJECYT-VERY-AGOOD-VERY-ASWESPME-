@@ -1,0 +1,2 @@
+../Src/sensors.c:11:6:adc_init	4
+../Src/sensors.c:44:10:adc_read_ldr	2

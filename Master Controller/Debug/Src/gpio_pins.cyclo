@@ -1,0 +1,14 @@
+../Drivers/core_cm4.h:1924:22:__NVIC_SetPriority	2
+../Drivers/core_cm4.h:2130:26:SysTick_Config	2
+../Src/gpio_pins.c:7:6:SysTick_Handler	1
+../Src/gpio_pins.c:12:10:millis	1
+../Src/gpio_pins.c:18:6:gpio_init_all	2
+../Src/gpio_pins.c:53:6:led_on	2
+../Src/gpio_pins.c:59:6:led_off	2
+../Src/gpio_pins.c:65:6:led_toggle	2
+../Src/gpio_pins.c:71:6:leds_all_off	1
+../Src/gpio_pins.c:77:5:btn_user_pressed	1
+../Src/gpio_pins.c:83:5:btn_correct_pressed	1
+../Src/gpio_pins.c:89:5:btn_wrong_pressed	1
+../Src/gpio_pins.c:95:5:btn_roulette_pressed	1
+../Src/gpio_pins.c:102:5:btn_debounce	3

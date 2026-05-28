@@ -1,0 +1,3 @@
+../Src/protocol.c:3:6:parser_init	1
+../Src/protocol.c:9:5:parser_feed	12
+../Src/protocol.c:68:9:frame_build	2

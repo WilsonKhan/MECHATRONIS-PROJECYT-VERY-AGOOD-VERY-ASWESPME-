@@ -1,0 +1,7 @@
+../Src/uart.c:12:13:usart1_init	16	static
+../Src/uart.c:38:13:usart2_init	16	static
+../Src/uart.c:56:13:usart3_init	16	static
+../Src/uart.c:74:6:uart_init_all	8	static
+../Src/uart.c:81:6:uart_send	24	static
+../Src/uart.c:90:5:uart_available	16	static
+../Src/uart.c:95:9:uart_read_byte	16	static

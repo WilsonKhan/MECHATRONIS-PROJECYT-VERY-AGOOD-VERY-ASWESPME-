@@ -1,0 +1,14 @@
+../Src/main.c:58:23:pod_uart	2
+../Src/main.c:63:13:send_to_pod	1
+../Src/main.c:69:13:send_to_pod_with_payload	1
+../Src/main.c:75:13:send_to_pc	1
+../Src/main.c:81:13:update_pc_state	1
+../Src/main.c:86:13:send_scores_to_pods	1
+../Src/main.c:94:13:process_pod_frame	5
+../Src/main.c:123:13:enter_idle	1
+../Src/main.c:135:13:enter_armed	1
+../Src/main.c:147:13:award_point	2
+../Src/main.c:155:13:deny_point	1
+../Src/main.c:168:13:enter_roulette	1
+../Src/main.c:181:13:stop_roulette	1
+../Src/main.c:194:5:main	19
